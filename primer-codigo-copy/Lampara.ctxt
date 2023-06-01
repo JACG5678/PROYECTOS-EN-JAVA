@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Lampara
+comment1.params=nom\ col\ luz\ ens\ obsc\ apa\ alum
+comment1.target=Lampara(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ imprimirDatos()
+numComments=3
