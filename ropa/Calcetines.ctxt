@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Calcetines
+comment1.params=tipo\ talla\ material
+comment1.target=Calcetines(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMaterial()
+comment3.params=material
+comment3.target=void\ setMaterial(java.lang.String)
+comment4.params=
+comment4.target=void\ desplegarInformacion()
+numComments=5

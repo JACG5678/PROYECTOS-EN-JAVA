@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=alumno
+comment1.params=nombres\ edades\ sexos
+comment1.target=void\ mostrarDatos(java.lang.String[],\ int[],\ char[])
+numComments=2

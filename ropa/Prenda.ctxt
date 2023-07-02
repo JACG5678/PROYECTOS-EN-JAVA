@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Prenda
+comment1.params=tipo\ talla
+comment1.target=Prenda(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ calcularId()
+comment3.params=
+comment3.target=int\ getId()
+comment4.params=
+comment4.target=java.lang.String\ getTipo()
+comment5.params=tipo
+comment5.target=void\ setTipo(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getTalla()
+comment7.params=talla
+comment7.target=void\ setTalla(java.lang.String)
+comment8.params=
+comment8.target=void\ desplegarInformacion()
+numComments=9

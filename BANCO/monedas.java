@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class monedas
 {
-    static void convertir (double valorpesomexicano, String pais){
+    public static void convertir (double valorpesomexicano, String pais){
         
         Scanner leer= new Scanner(System.in);
         System.out.println("INGRESA LA CANTIDAD AH INTERCAMBIAR:   ,PAIS");
